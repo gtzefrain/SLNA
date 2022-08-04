@@ -16,7 +16,7 @@
     "keystone-express-sitemap": "^1.2.0",
     "lodash": "^3.10.1",
     "mongodb": "^3.0.5",
-    "mongoose": "^5.0.12",
+    "mongoose": "^5.7.5",
     "ng-meta": "^1.0.3",
     "prerender": "^5.4.2",
     "prerender-node": "^2.8.0"
